@@ -1,1 +1,1 @@
-# FiTMiX-Privacy
+# flexmix
